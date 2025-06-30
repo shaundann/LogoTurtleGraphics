@@ -1,21 +1,3 @@
-/**
- * CSC A48 - Intro to Computer Science II
- * 
- * This file provides an interactive test driver to help you check your
- * work as you work on A1.
- * 
- * This is provided *only* with the intent of helping you test. It's up 
- * to you to use this to thoroughly check that everything works in your
- * code.
- * 
- * Remember: You are expected to test for *correctness*, that means
- * it's not enough for your functions to produce the right result,
- * they have to do so by manipulating all the relevant data correctly.
- * You should check for structure and correctness at every step.
- * 
- * Developed by Mustafa Quraish for CSCA48
- * (c) Mustafa Quraish
- */
 #define SIZEX 512
 #define SIZEY 512
 
